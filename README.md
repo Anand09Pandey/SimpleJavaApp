@@ -1,6 +1,6 @@
 # SimpleJavaApp
 
-Basic Java Spring-Boot Application with postgres Db and Docker
+This application combines the strengths of Spring Boot, PostgreSQL, and Docker to offer developers a modern, efficient, and scalable solution for Java application development and deployment. Its simplicity and integration make it a useful tool for both learning and building production-ready applications in various environments
 
 ## Installation
 
